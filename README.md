@@ -1,1 +1,1 @@
-![Demo GIF](https://raw.githubusercontent.com/wans-studio/navbar-horizontal-sedang/master/images/1119.gif)
+![GIF Kamu](https://raw.githubusercontent.com/USERNAME/REPO/master/images/1119.gif)
