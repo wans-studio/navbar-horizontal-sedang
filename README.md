@@ -1,2 +1,1 @@
-![Demo](https://raw.githubusercontent.com/wans-studio/navbar-horizontal-sedang/main/images/animasi.gif)
-
+![1119](https://github.com/user-attachments/assets/e92ad6f2-10d8-4daf-a849-9550bcb2ff35)
